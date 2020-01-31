@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.woff2') format('woff2'),
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Bold.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Bold.woff2') format('woff2'),
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Light.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Light.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Light.woff2') format('woff2'),
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Medium.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Medium.woff2') format('woff2'),
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Thin.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Thin.woff2') format('woff2'),
@@ -49,7 +49,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir';
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Black.eot');
   src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Black.eot?#iefix') format('embedded-opentype'),
        url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Black.woff2') format('woff2'),
